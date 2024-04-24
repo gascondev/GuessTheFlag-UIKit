@@ -30,6 +30,9 @@ El juego muestra tres botones, cada uno con una bandera diferente. El objetivo d
 
 <h3>Vista del proyecto</h3>
 
+![GuessTheFlag](https://github.com/gascondev/GuessTheFlag-UIKit/assets/144269155/386b27e5-6635-418e-9854-ff93f1560ffd)
+
+
 
 <h3>Instalación</h3>
 
